@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="Main">Création du client</a>
+<a href="Main">Création client</a>
 </body>
 </html>
